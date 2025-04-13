@@ -1,3 +1,6 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+#EXTINF:-1,斯玛特
+#genre#
 #EXTINF:-1,中国|CCTV-1 综合 HD
 https://pixman.mytvsuper.com.mp/Smart.php?id=cctv1
 #EXTINF:-1,中国|CCTV-2 财经

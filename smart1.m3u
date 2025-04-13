@@ -8,7 +8,7 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=phoenixinfo_hd
 #EXTINF:-1,中国|CCTV-1 综合 HD
 https://pixman.mytvsuper.com.mp/Smart.php?id=cctv1
 #EXTINF:-1,中国|CCTV-1 RTHKTV
-CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 #EXTINF:-1,中国|CCTV-2 财经
 https://pixman.mytvsuper.com.mp/Smart.php?id=cctv2
 #EXTINF:-1,中国|CCTV-3 综艺 HD

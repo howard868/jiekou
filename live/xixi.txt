@@ -1,0 +1,857 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTINF:-1,æ–¯çŽ›ç‰¹
+#genre#
+#EXTINF:-1,é¦™æ¸¯|ç¿¡ç¿ å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=jade_twn
+#EXTINF:-1,é¦™æ¸¯|ç¿¡ç¿ å° backup
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Jade_xue
+#EXTINF:-1,é¦™æ¸¯|iNews æ–°é—»å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=inews_twn
+#EXTINF:-1,é¦™æ¸¯|J 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=j2_twn
+#EXTINF:-1,é¦™æ¸¯|çç å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=pearl_twn
+#EXTINF:-1,é¦™æ¸¯|å‡¤å‡°é¦™æ¸¯
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=hkphoenix_twn
+#EXTINF:-1,é¦™æ¸¯|HOYèµ„è®¯å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=hoycaijing_twn
+#EXTINF:-1,é¦™æ¸¯|RHK 31
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=rhk31_twn
+#EXTINF:-1,é¦™æ¸¯|VIUTV1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=viu1_twn
+#EXTINF:-1,é¦™æ¸¯|RHK 32
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=rhk32_twn
+#EXTINF:-1,é¦™æ¸¯|å‡¤å‡°å«è§†
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=phoenixtv_hd
+#EXTINF:-1,é¦™æ¸¯|å‡¤å‡°èµ„è®¯
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=phoenixinfo_hd
+#EXTINF:-1,é¦™æ¸¯|Viu6
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=viusix_twn
+#EXTINF:-1,ä¸­å›½|CCTV-1 ç»¼åˆ HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv1
+#EXTINF:-1,ä¸­å›½|CCTV-2 è´¢ç»
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv2
+#EXTINF:-1,ä¸­å›½|CCTV-3 ç»¼è‰º HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv3
+#EXTINF:-1,ä¸­å›½|CCTV-4 ä¸­æ–‡å›½é™…
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv4
+#EXTINF:-1,ä¸­å›½|CCTV4 æ–°é—»å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Cctv4
+#EXTINF:-1,ä¸­å›½|CCTV-7 å†›äº‹å†œä¸š
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv7
+#EXTINF:-1,ä¸­å›½|CCTV-8 ç”µè§†å‰§ HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv8hd
+#EXTINF:-1,ä¸­å›½|CCTV-9 è®°å½• HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv9hd
+#EXTINF:-1,ä¸­å›½|CCTV-10 ç§‘æ•™ HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv10hd
+#EXTINF:-1,ä¸­å›½|CCTV-11 æˆæ›²
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv11
+#EXTINF:-1,ä¸­å›½|CCTV-12 ç¤¾ä¼šä¸Žæ³•
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv12
+#EXTINF:-1,ä¸­å›½|CCTV-13 æ–°é—»é¢‘é“
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv13
+#EXTINF:-1,ä¸­å›½|CCTV-14 å°‘å„¿
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv14
+#EXTINF:-1,ä¸­å›½|CCTV-6
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv6
+#EXTINF:-1,ä¸­å›½|CCTV-15 éŸ³ä¹
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv15
+#EXTINF:-1,ä¸­å›½|æ¹–å—å«è§†
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=hunan_twn
+#EXTINF:-1,ä¸­å›½|æµ™æ±Ÿå«è§†
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=zhejiang_twn
+#EXTINF:-1,ä¸­å›½|æ±Ÿè‹å«è§†
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=jiangsu_twn
+#EXTINF:-1,ä¸­å›½|æ·±åœ³å«è§†
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=shenzhen
+#EXTINF:-1,ä¸­å›½|ç¦å»ºä¸œå—å«è§†
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=fujian
+#EXTINF:-1,ä¸­å›½|å¹¿ä¸œå—æ–¹å«è§†
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=nanfang_twn
+#EXTINF:-1,ä¸­å›½|å¹¿ä¸œå«è§†
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=guangdongweishi_twn
+#EXTINF:-1,ä¸­å›½|åŒ—äº¬å«è§†
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=beijing
+#EXTINF:-1,ä¸­å›½|ç æ±Ÿå°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=zhujiang
+#EXTINF:-1,ä¸­å›½|å¹¿è¥¿å«è§†
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=guangxi
+#EXTINF:-1,ä¸­å›½|æ¹–åŒ—å«è§†
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=hubei
+#EXTINF:-1,ä¸­å›½|å››å·å«è§†
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=sichuan_twn
+#EXTINF:-1,ä¸­å›½|ä¸œæ–¹å«è§†
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=dongfangweishi_twn
+#EXTINF:-1,ä¸­å›½|CGTN
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=CGTN
+#EXTINF:-1,ä¸­å›½|CCTV-5 ä½“è‚²é¢‘é“
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv5
+#EXTINF:-1,ä¸­å›½|CCTV-5+ ä½“è‚²èµ›äº‹ HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cctv5plus
+#EXTINF:-1,ä½“è‚²é¢‘é“|Astro Premier League 1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=go_assp1
+#EXTINF:-1,ä½“è‚²é¢‘é“|Astro EPL 1 backup
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=go_assp1x
+#EXTINF:-1,ä½“è‚²é¢‘é“|Astro Premier League 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=go_assp2
+#EXTINF:-1,ä½“è‚²é¢‘é“|Astro Grandstand
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=go_assp3
+#EXTINF:-1,ä½“è‚²é¢‘é“|Astro Football
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=go_assp4
+#EXTINF:-1,ä½“è‚²é¢‘é“|Astro Sports Plus
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=go_sportsplus
+#EXTINF:-1,ä½“è‚²é¢‘é“|Astro Badminton 1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=go_badminton1
+#EXTINF:-1,ä½“è‚²é¢‘é“|Astro Badminton 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=go_badminton2
+#EXTINF:-1,ä½“è‚²é¢‘é“|Astro W-Sports
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=go_assp5
+#EXTINF:-1,ä½“è‚²é¢‘é“|Supersports 1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Assp1
+#EXTINF:-1,ä½“è‚²é¢‘é“|Supersports 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Assp2
+#EXTINF:-1,ä½“è‚²é¢‘é“|Supersports 3
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Assp3
+#EXTINF:-1,ä½“è‚²é¢‘é“|Supersports 4
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Assp4
+#EXTINF:-1,ä½“è‚²é¢‘é“|WWE
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Wwe
+#EXTINF:-1,ä½“è‚²é¢‘é“|Fight Sports
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Fs
+#EXTINF:-1,ä½“è‚²é¢‘é“|NBA TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Nba
+#EXTINF:-1,ä½“è‚²é¢‘é“|Astro Cricket
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Acricket
+#EXTINF:-1,ä½“è‚²é¢‘é“|Astro Golf
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Agolf
+#EXTINF:-1,ä½“è‚²é¢‘é“|Tnt Sports 1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=6fac0aaead
+#EXTINF:-1,ä½“è‚²é¢‘é“|TNT Sports 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=d9a76a79cc
+#EXTINF:-1,ä½“è‚²é¢‘é“|TNT Sports 3
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=5fea4d73db
+#EXTINF:-1,ä½“è‚²é¢‘é“|TNT Sports 4
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tntsport4
+#EXTINF:-1,ä½“è‚²é¢‘é“|Sony Ten 1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ten1_raj
+#EXTINF:-1,ä½“è‚²é¢‘é“|Sony Ten 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ten2_raj
+#EXTINF:-1,ä½“è‚²é¢‘é“|Sony Ten 3
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ten3_raj
+#EXTINF:-1,ä½“è‚²é¢‘é“|SPOTV 1 HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=go_spotv
+#EXTINF:-1,ä½“è‚²é¢‘é“|SPO TV 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=go_spotv2
+#EXTINF:-1,ä½“è‚²é¢‘é“|Skysports F1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tiankongf1
+#EXTINF:-1,ä½“è‚²é¢‘é“|Skysports Cricket
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tiankongcricket
+#EXTINF:-1,ä½“è‚²é¢‘é“|Skysports EPL
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tiankongepl
+#EXTINF:-1,ä½“è‚²é¢‘é“|Skysports Main Event
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tiankongmain
+#EXTINF:-1,ä½“è‚²é¢‘é“|Skysports News
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tiankongnews
+#EXTINF:-1,ä½“è‚²é¢‘é“|Skysports Mix
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tiankongmix
+#EXTINF:-1,ä½“è‚²é¢‘é“|çˆ±å°”è¾¾ä½“è‚²2å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=eltasport2_twn
+#EXTINF:-1,ä½“è‚²é¢‘é“|çˆ±å°”è¾¾ä½“è‚²3å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=eltasport3_twn
+#EXTINF:-1,ä½“è‚²é¢‘é“|Rugby Pass TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Rugbypasstv
+#EXTINF:-1,ä½“è‚²é¢‘é“|RTM Sports HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Rtmsport
+#EXTINF:-1,ä½“è‚²é¢‘é“|Arena
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Arena
+#EXTINF:-1,ä½“è‚²é¢‘é“|Arena 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Arena2
+#EXTINF:-1,ä½“è‚²é¢‘é“|BolaArena 1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Bolaarena1
+#EXTINF:-1,ä½“è‚²é¢‘é“|BolaArena 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Bolaarena2
+#EXTINF:-1,ä½“è‚²é¢‘é“|Astro Beinsports 1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Astrobein1
+#EXTINF:-1,ä½“è‚²é¢‘é“|Astro Beinsports 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Astrobein2
+#EXTINF:-1,ä½“è‚²é¢‘é“|Astro Beinsports 3
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Astrobein3
+#EXTINF:-1,å°æ¹¾|TVBS News æ–°é—»å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tvbs_n
+#EXTINF:-1,å°æ¹¾|TVBS æ¬¢ä¹å° ï¼ˆå¤‡ä»½ï¼‰
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tvbshuanle_twn
+#EXTINF:-1,å°æ¹¾|TVBS HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tvbs
+#EXTINF:-1,å°æ¹¾|ä¸­å¤©æ–°é—» HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ctinews
+#EXTINF:-1,å°æ¹¾|ä¸­å¤©å¨±ä¹ CTI Entertaiment
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ctient
+#EXTINF:-1,å°æ¹¾|ä¸­å¤©ç»¼åˆ CTI Metro
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ctizhonghe
+#EXTINF:-1,å°æ¹¾|ä¸­å¤©äºšæ´²å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ctiasia_twn
+#EXTINF:-1,å°æ¹¾|å°è§† TTV HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ttv_taiwan
+#EXTINF:-1,å°æ¹¾|å°è§†æ–°é—»å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ttvnews_twn
+#EXTINF:-1,å°æ¹¾|å°è§†ç»¼åˆå°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ttvzhonghe
+#EXTINF:-1,å°æ¹¾|ä¸­è§† HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=zhongshihd_twn
+#EXTINF:-1,å°æ¹¾|ä¸­è§†æ–°é—»å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=zhongshinews_twn
+#EXTINF:-1,å°æ¹¾|æ°‘è§† HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ftvhd_taiwan
+#EXTINF:-1,å°æ¹¾|æ°‘è§†æ–°é—»å° FTV News
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ftvnew_taiwan
+#EXTINF:-1,å°æ¹¾|æ°‘è§†å°æ¹¾å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ftvtaiwan_twn
+#EXTINF:-1,å°æ¹¾|åŽè§† CTS HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ctshd_twn
+#EXTINF:-1,å°æ¹¾|å…¬è§† CTV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ctv18_twn
+#EXTINF:-1,å°æ¹¾|å…«å¤§ç¬¬ä¸€ GTV First
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=badafirst
+#EXTINF:-1,å°æ¹¾|å…«å¤§ç»¼åˆ GTV Metro
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=badazhonghe
+#EXTINF:-1,å°æ¹¾|å…«å¤§æˆå‰§ GTV Drama
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=badadrama
+#EXTINF:-1,å°æ¹¾|å…«å¤§å¨±ä¹ GTV Entertainment
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=badaentertain
+#EXTINF:-1,å°æ¹¾|HBO_HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=hbohd_twn
+#EXTINF:-1,å°æ¹¾|HBO_HITS
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=hbohit_twn
+#EXTINF:-1,å°æ¹¾|Hollywood Movies
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=hollywoodmovies_twn
+#EXTINF:-1,å°æ¹¾|ä¸‰ç«‹å°æ¹¾ Sanli Taiwan
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=sanlitaiwan
+#EXTINF:-1,å°æ¹¾|ä¸‰ç«‹æˆå‰§å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=sanlixiju_twn
+#EXTINF:-1,å°æ¹¾|ä¸‰ç«‹ç»¼åˆ Sanli Metro
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=sanlizhonghe
+#EXTINF:-1,å°æ¹¾|ä¸‰ç«‹éƒ½ä¼šå°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=sanlidouhui
+#EXTINF:-1,å°æ¹¾|ä¸œæ£®æ–°é—» ETTV News
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ettvnews
+#EXTINF:-1,å°æ¹¾|CINEMAX
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cinemax_twn
+#EXTINF:-1,å°æ¹¾|ä¸œæ£®ç»¼åˆ ETTV Metro
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ettvzhonghe
+#EXTINF:-1,å°æ¹¾|ä¸œæ£®æˆå‰§ ETTV Drama
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ettvdrama
+#EXTINF:-1,å°æ¹¾|ä¸œæ£®è¶…è§†
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ettvsuper
+#EXTINF:-1,å°æ¹¾|ä¸œæ£®è´¢ç»æ–°é—» ETTV Business
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ettvcaijing_twn
+#EXTINF:-1,å°æ¹¾|å¯°å®‡è´¢ç»
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=huanyutaiwan_twn
+#EXTINF:-1,å°æ¹¾|å¯°å®‡æ–°é—»å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=huanyuxinwen_twn
+#EXTINF:-1,å°æ¹¾|å…¬è§†2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ctv2_twn
+#EXTINF:-1,å°æ¹¾|å¤§çˆ±1å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=daai_twn
+#EXTINF:-1,å°æ¹¾|éžå‡¡æ–°é—»å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=feifannews_twn
+#EXTINF:-1,å°æ¹¾|é¾™åŽæˆå‰§ Lunghua Drama
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=lunghuaxiju_twn
+#EXTINF:-1,å°æ¹¾|é¾™åŽç»å…¸å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=lunghuajingdian_twn
+#EXTINF:-1,å°æ¹¾|é¾™åŽå¶åƒ
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=lunghuaidol_twn
+#EXTINF:-1,å°æ¹¾|AXN Taiwan
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=axn_twn
+#EXTINF:-1,å°æ¹¾|é–å¤©å›½é™…å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=jingtianintl_twn
+#EXTINF:-1,å°æ¹¾|å¹´ä»£æ–°é—»
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=niandainews_twn
+#EXTINF:-1,å°æ¹¾|çº¬æ¥æ—¥æœ¬å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=videolandjapan
+#EXTINF:-1,å°æ¹¾|çº¬æ¥ç”µå½±å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=videolandmovie
+#EXTINF:-1,å°æ¹¾|çº¬æ¥ä½“è‚²å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=videolandsport
+#EXTINF:-1,å°æ¹¾|çº¬æ¥ç»¼åˆå°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=videolandzonghe
+#EXTINF:-1,å°æ¹¾|çº¬æ¥è‚²ä¹
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=videolandyule
+#EXTINF:-1,å°æ¹¾|çº¬æ¥ç²¾å½©
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=videolandspecial_twn
+#EXTINF:-1,å°æ¹¾|å¥½æ¶ˆæ¯ 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=good2_twn
+#EXTINF:-1,å°æ¹¾|å¤§çˆ±2å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=daai2_twn
+#EXTINF:-1,å°æ¹¾|äºšæ´²ç¾Žé£Ÿ
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=afc_twn
+#EXTINF:-1,å°æ¹¾|ç¾Žé£Ÿæ˜Ÿçƒ
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=foodplanet_twn
+#EXTINF:-1,å°æ¹¾|äºšæ´²æ—…æ¸¸ TLC Asia
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tlc_twn
+#EXTINF:-1,å°æ¹¾|ä¸œæ£®ç”µå½± ETTV Movie
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ettvmovie
+#EXTINF:-1,å°æ¹¾|é˜¿é‡ŒéƒŽ Arirang
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=arirang_twn
+#EXTINF:-1,å°æ¹¾|åšæ–¯è¿åŠ¨ 1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=bosisport1_twn
+#EXTINF:-1,å°æ¹¾|åšæ–¯è¿åŠ¨ 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=bosisport2_twn
+#EXTINF:-1,å°æ¹¾|åšæ–¯é«˜çƒ2 HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=bosigolf2_twn
+#EXTINF:-1,å°æ¹¾|åšæ–¯ç½‘çƒ HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=bositennis_twn
+#EXTINF:-1,å°æ¹¾|ä¸œæ£®æ´‹ç‰‡ ETTV Western
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ettvwestern
+#EXTINF:-1,å°æ¹¾|é¾™åŽæ´‹ç‰‡ Lunghua Western
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=lunghuawestern_twn
+#EXTINF:-1,å°æ¹¾|åšæ–¯æ— é™
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=bosiunlimited_twn
+#EXTINF:-1,å°æ¹¾|MTV Live
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=mtvhd_twn
+#EXTINF:-1,å°æ¹¾|é¾™è¯¦æ—¶ä»£
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=lungxiangtime_twn
+#EXTINF:-1,å°æ¹¾|EYETV æ—…æ¸¸
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=eyetvtravel_twn
+#EXTINF:-1,å°æ¹¾|é–å¤©å¡é€šå°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=jingtiancartoon_twn
+#EXTINF:-1,å°æ¹¾|EYETV æˆå‰§
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=eyetvxiju_twn
+#EXTINF:-1,å°æ¹¾|å«è§†ä¸­æ–‡å° Star Movies Chinese
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=weishichinese_twn
+#EXTINF:-1,å°æ¹¾|ä¸œæ£®å¹¼å¹¼ Yoyo TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=yoyo_twn
+#EXTINF:-1,å°æ¹¾|å«è§†ç”µå½±å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=weishimovie_twn
+#EXTINF:-1,å°æ¹¾|ç¾Žäºšç”µå½±
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=meiyamovie_twn
+#EXTINF:-1,å°æ¹¾|çˆ±å°”è¾¾å½±å‰§å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=eltayingju_twn
+#EXTINF:-1,å°æ¹¾|çˆ±å°”è¾¾ç»¼åˆå°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=eltazonghe_twn
+#EXTINF:-1,å°æ¹¾|æ˜Ÿå«ç”µå½±
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=xingwei_movie
+#EXTINF:-1,å°æ¹¾|AFC äºšæ´²æ—…æ¸¸å°
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=asiatravel_twn
+#EXTINF:-1,ç”µå½±é¢‘é“|Cinemax
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Cinemax
+#EXTINF:-1,ç”µå½±é¢‘é“|Animax
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Animax
+#EXTINF:-1,ç”µå½±é¢‘é“|Movies Now HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=moviesnow_raj
+#EXTINF:-1,ç”µå½±é¢‘é“|Star Movies HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=starmovies_raj
+#EXTINF:-1,ç”µå½±é¢‘é“|HBO Family
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Hbofamily
+#EXTINF:-1,ç”µå½±é¢‘é“|Hits
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Hits
+#EXTINF:-1,ç”µå½±é¢‘é“|Warner TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=WarnerTV
+#EXTINF:-1,ç”µå½±é¢‘é“|HBO HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Hbo
+#EXTINF:-1,ç”µå½±é¢‘é“|HBO Signature
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Hbosignature
+#EXTINF:-1,ç”µå½±é¢‘é“|HBO Hits
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Hbohitshd
+#EXTINF:-1,ç”µå½±é¢‘é“|SCM
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Weishimovie
+#EXTINF:-1,ç”µå½±é¢‘é“|Dreamworks
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Dreamworks
+#EXTINF:-1,ç”µå½±é¢‘é“|Thrill
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Thrill
+#EXTINF:-1,ç”µå½±é¢‘é“|Hits Movie
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Hitsmovie
+#EXTINF:-1,ç”µå½±é¢‘é“|One
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=One
+#EXTINF:-1,ç”µå½±é¢‘é“|tvN Movie
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Tvnmovie
+#EXTINF:-1,ç”µå½±é¢‘é“|Celestial Classic
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Celestial2
+#EXTINF:-1,ç”µå½±é¢‘é“|Celestial Movies HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Celestialindo
+#EXTINF:-1,ç”µå½±é¢‘é“|Axn HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Axn
+#EXTINF:-1,ç”µå½±é¢‘é“|Paramount Network
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Paramountnetwork
+#EXTINF:-1,ç”µå½±é¢‘é“|Astrol Kplus
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Kplus
+#EXTINF:-1,ç”µå½±é¢‘é“|Rock Actions
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Rockaction
+#EXTINF:-1,ç”µå½±é¢‘é“|Rock Entertainment
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Rockentertain
+#EXTINF:-1,çºªå½•é¢‘é“|Natgeo_HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=natgeohd_twn
+#EXTINF:-1,çºªå½•é¢‘é“|NatGeo_Wild HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=natgeowild_twn
+#EXTINF:-1,çºªå½•é¢‘é“|Animal_Planet
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=animalplanet_twn
+#EXTINF:-1,çºªå½•é¢‘é“|Discovery Asia
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=discoverytwn_twn
+#EXTINF:-1,çºªå½•é¢‘é“|CI
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ci_twn
+#EXTINF:-1,çºªå½•é¢‘é“|Discovery HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=discoveryhd_twn
+#EXTINF:-1,çºªå½•é¢‘é“|NatGeo HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Natgeo
+#EXTINF:-1,çºªå½•é¢‘é“|Fashion TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=fashiontv_twn
+#EXTINF:-1,çºªå½•é¢‘é“|History
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=History
+#EXTINF:-1,çºªå½•é¢‘é“|BBC Earth HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=bbcearth_twn
+#EXTINF:-1,çºªå½•é¢‘é“|BBC Earth Lifestyle
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=bbclifestyle_twn
+#EXTINF:-1,çºªå½•é¢‘é“|NatGeo Wild HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Natgeowild
+#EXTINF:-1,çºªå½•é¢‘é“|Animal Planet (Eng)
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=AnimalPlanet
+#EXTINF:-1,çºªå½•é¢‘é“|TLC
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Tlc
+#EXTINF:-1,çºªå½•é¢‘é“|Foodnetwork Hd
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Foodnetwork
+#EXTINF:-1,çºªå½•é¢‘é“|HGTV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=HGTV
+#EXTINF:-1,æ–°é—»é¢‘é“|Skynews
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=skynews_twn
+#EXTINF:-1,æ–°é—»é¢‘é“|ABC News
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=abcnews_glo
+#EXTINF:-1,æ–°é—»é¢‘é“|CBS HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cbshd_glo
+#EXTINF:-1,æ–°é—»é¢‘é“|CBSN HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cbsn_glo
+#EXTINF:-1,æ–°é—»é¢‘é“|France 24
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=france24_twn
+#EXTINF:-1,æ–°é—»é¢‘é“|DW (Deutsch)
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=dw_twn
+#EXTINF:-1,æ–°é—»é¢‘é“|NHK World
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=nhkworld_japan
+#EXTINF:-1,æ–°é—»é¢‘é“|Fox News
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=foxnews_twn
+#EXTINF:-1,æ–°é—»é¢‘é“|CNN International
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Cnn
+#EXTINF:-1,æ–°é—»é¢‘é“|CNN backup
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cnn_twn
+#EXTINF:-1,æ–°é—»é¢‘é“|CNBC
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cnbc_twn
+#EXTINF:-1,æ–°é—»é¢‘é“|CNA
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cna
+#EXTINF:-1,æ–°é—»é¢‘é“|BBC World News
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=bbcnews_twn
+#EXTINF:-1,æ–°é—»é¢‘é“|BBC World News
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Bbcnews
+#EXTINF:-1,æ–°é—»é¢‘é“|Bloomberg News
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=bloomberg_twn
+#EXTINF:-1,æ–°é—»é¢‘é“|Al-Jazeera
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=aljazeera_twn
+#EXTINF:-1,å„¿ç«¥é¢‘é“|Baby TV Eng
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Babytv
+#EXTINF:-1,å„¿ç«¥é¢‘é“|CBeebies
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Cbeebies
+#EXTINF:-1,å„¿ç«¥é¢‘é“|Kids TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=KidsTV
+#EXTINF:-1,å„¿ç«¥é¢‘é“|Momo TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=momo1_twn
+#EXTINF:-1,å„¿ç«¥é¢‘é“|Baby TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=babytv_twn
+#EXTINF:-1,å„¿ç«¥é¢‘é“|MiaoMi
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=MiaoMi
+#EXTINF:-1,å„¿ç«¥é¢‘é“|Cartoon Network
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Cn
+#EXTINF:-1,å„¿ç«¥é¢‘é“|Nickelodeon
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Nickelodeon
+#EXTINF:-1,å„¿ç«¥é¢‘é“|Nick Jr
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Nickjr
+#EXTINF:-1,æ–°åŠ å¡|Channel 5
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Channel5HD
+#EXTINF:-1,æ–°åŠ å¡|Channel 8
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Channel8HD
+#EXTINF:-1,æ–°åŠ å¡|Suria
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Suria
+#EXTINF:-1,æ–°åŠ å¡|Channel U
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ChannelU
+#EXTINF:-1,æ–°åŠ å¡|Vasantham
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Vasantham
+#EXTINF:-1,æ–°åŠ å¡|CNA backup
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cna_twn
+#EXTINF:-1,æ–°åŠ å¡|MeWatch Ch 5
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Mewatch_ch5
+#EXTINF:-1,æ–°åŠ å¡|MeWatch Ch 8
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Mewatch_ch8
+#EXTINF:-1,æ–°åŠ å¡|MeWatch Ch U
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Mewatch_chU
+#EXTINF:-1,æ–°åŠ å¡|MeWatch Suria
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Mewatch_Suria
+#EXTINF:-1,æ–°åŠ å¡|MeWatch Vasantham
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Mewatch_Vasantham
+#EXTINF:-1,æ–°åŠ å¡|MeWatch CNA
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Mewatch_cna
+#EXTINF:-1,é©¬æ¥è¥¿äºš|TV1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=TV1
+#EXTINF:-1,é©¬æ¥è¥¿äºš|TV1 backup
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=TV1_backup
+#EXTINF:-1,é©¬æ¥è¥¿äºš|TV2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=TV2
+#EXTINF:-1,é©¬æ¥è¥¿äºš|TV3
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=TV3
+#EXTINF:-1,é©¬æ¥è¥¿äºš|TV3 SD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=TV3_mega
+#EXTINF:-1,é©¬æ¥è¥¿äºš|NTV7
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=NTV7
+#EXTINF:-1,é©¬æ¥è¥¿äºš|TV8
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=TV8
+#EXTINF:-1,é©¬æ¥è¥¿äºš|TV9
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=TV9
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Ria
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Ria-0
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Ria-3
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Ria_backup
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Al-Hijrah
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Alhijrah
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Al-Hijrah backup
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Alhijrah_backup
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Awani
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Awani
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Bernama
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Bernama
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Prima
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Prima-0
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Prima backup
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=AAprima1
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Prima backup 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=AAprima
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Ceria
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Ceria
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Astro MTV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=AstroMTV
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Mecca Live HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=quran_mido
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Madinah HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=sunnah_mido
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Oasis
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Oasis
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Siar
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Siar
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Citra
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=AAcitra
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Citra backup
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=AAcitra1
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Sensasi
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Sensasi
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Aura
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Aura
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Rania
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Rania
+#EXTINF:-1,é©¬æ¥è¥¿äºš|KBS World
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=KBS
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Boo
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Boo
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Awesome TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Dsangat
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Astro Sonypix
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Asonypix
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Sony HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=SetOne
+#EXTINF:-1,é©¬æ¥è¥¿äºš|TvN
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=TVN
+#EXTINF:-1,é©¬æ¥è¥¿äºš|AEC
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=AEC
+#EXTINF:-1,é©¬æ¥è¥¿äºš|åŽä¸½å° HD ï¼ˆWah Lai Toiï¼‰
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Wlt
+#EXTINF:-1,é©¬æ¥è¥¿äºš|æ¬¢å–œå° HD ï¼ˆHua Hee Taiï¼‰
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Huahee
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Astro QJ
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Quanjia
+#EXTINF:-1,é©¬æ¥è¥¿äºš|TVB Jade
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Tvbjade
+#EXTINF:-1,é©¬æ¥è¥¿äºš|TVB Asia
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Tvbasia
+#EXTINF:-1,é©¬æ¥è¥¿äºš|TVB Entertainment
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Tvbentertainment
+#EXTINF:-1,é©¬æ¥è¥¿äºš|TVB Classic
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Tvbclassic
+#EXTINF:-1,é©¬æ¥è¥¿äºš|AOD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Aodhd
+#EXTINF:-1,é©¬æ¥è¥¿äºš|TVB æ˜Ÿæ²³å° Xing He
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Xinhe
+#EXTINF:-1,é©¬æ¥è¥¿äºš|çˆ±å¥‡è‰º iQiyi
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Qiyi
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Goshop
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Goshop
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Celestial Movies HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Celestial
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Astro LOL
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Astro_lol
+#EXTINF:-1,é©¬æ¥è¥¿äºš|Astro Rusi
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Rusi
+#EXTINF:-1,é©¬æ¥è¥¿äºš|WION
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Wion
+#EXTINF:-1,é©¬æ¥è¥¿äºš|RTM Asean
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Rtmasean
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|TVRI National
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=TVRI
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|RCTI
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Rcti
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Kompass TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Kompass
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Berita Satu
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=BeritaSatu_eko
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Indosiar HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Indosiar
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|AnTV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Antv
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|MNC TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Mnctv
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Trans 7
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Trans7_eko
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Transtv
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Transtv
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|JTV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=JTV_eko
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Metro TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=metrotv_eko
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|SCTV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=SCTV
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Tvone
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Tvone
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|TVMU
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=TVMU_eko
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|GTV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Gtv
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|RTV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Rtv
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Jak TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=JakTV
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|iNews TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Inewstv
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Daai TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=DaaiTV
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Net TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=NetTV
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|EWTN
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Ewtn
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|AlQuran AlKareem
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=AlQuran
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Tawaf TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=TawafTV
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Vision Prime
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=VisionPrime
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Muslim TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=MuslimTV
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Music TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=MusicTV
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Lifestyle&Fashion
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Lifestyle
+#EXTINF:-1,å°åº¦å°¼è¥¿äºš|Entertain
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Entertain
+#EXTINF:-1,å°åº¦|Sun TV HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Suntv
+#EXTINF:-1,å°åº¦|Star Vijay
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Starvijay
+#EXTINF:-1,å°åº¦|Colors Tamil
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Colorstam
+#EXTINF:-1,å°åº¦|Sun Music
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Sunmusic
+#EXTINF:-1,å°åº¦|Astro Sunlife
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Sunlife
+#EXTINF:-1,å°åº¦|Astro Vaanavil
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Vaanavil
+#EXTINF:-1,å°åº¦|Zee Tamil
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Zeetamil
+#EXTINF:-1,å°åº¦|Zee Business
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Zeebusiness
+#EXTINF:-1,å°åº¦|News 18 Tamil
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=news18tamil_raj
+#EXTINF:-1,å°åº¦|Adithya
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Adithya
+#EXTINF:-1,å°åº¦|Makkal TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Makkaltv
+#EXTINF:-1,å°åº¦|Zee Action
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Zeeaction
+#EXTINF:-1,å°åº¦|Astro KTV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Astroktv
+#EXTINF:-1,å°åº¦|Zee TV HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Zeetvhd
+#EXTINF:-1,å°åº¦|Zee Cinema HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Zeecinemahd
+#EXTINF:-1,å°åº¦|Color HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Colorhd
+#EXTINF:-1,å°åº¦|Starplus HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Starplushd
+#EXTINF:-1,å°åº¦|Picture HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Npicture
+#EXTINF:-1,å°åº¦|Zee News
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Zeenews
+#EXTINF:-1,å°åº¦|Asianet
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=asianet_raj
+#EXTINF:-1,å°åº¦|Asianet News
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=asianetnews_raj
+#EXTINF:-1,å°åº¦|Discovery World Tamil
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=discoveryworldtam_raj
+#EXTINF:-1,å°åº¦|History Tamil
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=historytam_raj
+#EXTINF:-1,å°åº¦|NatGeo Tamil
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=natgeotamil_raj
+#EXTINF:-1,å°åº¦|Natgeo Wild Tamil
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=natgeowildtamil_raj
+#EXTINF:-1,å°åº¦|Discovery Kids Tamil
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=discoverykidtamil_raj
+#EXTINF:-1,å°åº¦|Discovery Tamil
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=discoverytamil_raj
+#EXTINF:-1,å°åº¦|Sony Yay Tamil
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=sonyyaytam_raj
+#EXTINF:-1,å°åº¦|Sun TV India
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=suntv_raj
+#EXTINF:-1,å°åº¦|Starmaa HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=starmaa_raj
+#EXTINF:-1,å°åº¦|Starmaa Movies HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=starmaamovies_raj
+#EXTINF:-1,å°åº¦|Bollyone
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Bollyone
+#EXTINF:-1,å°åº¦|Vijay Super
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=vijaysuper_raj
+#EXTINF:-1,å°åº¦|Vellithirai
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=Vellithirai
+#EXTINF:-1,æ³°å›½|Channel 3 Thailand
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ch3_pat
+#EXTINF:-1,æ³°å›½|Channel 5 Thailand
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ch5_pat
+#EXTINF:-1,æ³°å›½|Channel 7 Thailand
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ch7_pat
+#EXTINF:-1,æ³°å›½|MCOT HD Thailand-1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=mcot_pat
+#EXTINF:-1,æ³°å›½|PPTV Thailand1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=pptv_pat
+#EXTINF:-1,æ³°å›½|Thai Thai
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=thaithai_pat
+#EXTINF:-1,æ³°å›½|Amarin
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=amarin_pat
+#EXTINF:-1,æ³°å›½|Ch 8
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ch8_pat
+#EXTINF:-1,æ³°å›½|GmmOne
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=gmmone_pat
+#EXTINF:-1,æ³°å›½|Mono
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=mono_pat
+#EXTINF:-1,æ³°å›½|Thairath
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=thairath_pat
+#EXTINF:-1,æ³°å›½|tpbs
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tpbs_pat
+#EXTINF:-1,æ³°å›½|Workpoint
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=workpoint_pat
+#EXTINF:-1,æ³°å›½|Gmm Channel
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=gmmchannel_pat
+#EXTINF:-1,æ³°å›½|Nation
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=nation_pat
+#EXTINF:-1,æ³°å›½|Tnn24
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tnn24_pat
+#EXTINF:-1,æ³°å›½|Nbt
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=nbt_pat
+#EXTINF:-1,æ³°å›½|New
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=new_pat
+#EXTINF:-1,æ³°å›½|TPTV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tptv_pat
+#EXTINF:-1,è‹±å›½|BBC 1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=bbc1_antik
+#EXTINF:-1,è‹±å›½|BBC 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=bbc2_antik
+#EXTINF:-1,è‹±å›½|CBBC
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cbbc_antik
+#EXTINF:-1,è‹±å›½|More4
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=more4_antik
+#EXTINF:-1,è‹±å›½|Freesports
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=freesports_antik
+#EXTINF:-1,è‹±å›½|Pick TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=picktv_antik
+#EXTINF:-1,è‹±å›½|itv 1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=itv1_antik
+#EXTINF:-1,è‹±å›½|itv 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=itv2_antik
+#EXTINF:-1,è‹±å›½|Euronews
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=euronews_antik
+#EXTINF:-1,è‹±å›½|Channel 4
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=channel4_antik
+#EXTINF:-1,è‹±å›½|BBC World News
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=bbcworldnews_antik
+#EXTINF:-1,è¶Šå—|ANTV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=viet_antv
+#EXTINF:-1,è¶Šå—|VTV 1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=viet_vtv1
+#EXTINF:-1,è¶Šå—|VTV 7
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=viet_vtv7
+#EXTINF:-1,è¶Šå—|HTV 7
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=viet_htv7
+#EXTINF:-1,è¶Šå—|HTV 9
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=viet_htv9
+#EXTINF:-1,è¶Šå—|BPTV 2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=viet_bptv2
+#EXTINF:-1,è¶Šå—|BRT HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=viet_brt
+#EXTINF:-1,è¶Šå—|Ca Mau TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=viet_camautv
+#EXTINF:-1,è¶Šå—|Danang TV1 HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=viet_danangtv1
+#EXTINF:-1,è¶Šå—|Danang TV2 HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=viet_danangtv2
+#EXTINF:-1,è¶Šå—|HBTV HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=viet_hbtv
+#EXTINF:-1,è¶Šå—|PTTH 1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=viet_ptth1
+#EXTINF:-1,éŸ©å›½|Arirang HD
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=arirang_korea
+#EXTINF:-1,éŸ©å›½|Yonhap News
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=yonhapnews_korea
+#EXTINF:-1,éŸ©å›½|CBS
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cbs_korea
+#EXTINF:-1,éŸ©å›½|EBS 1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ebs1_korea
+#EXTINF:-1,éŸ©å›½|EBS2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ebs2_korea
+#EXTINF:-1,éŸ©å›½|EBS Plus2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ebsplus2_korea
+#EXTINF:-1,éŸ©å›½|SBS Plus
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=sbsplus_korea
+#EXTINF:-1,éŸ©å›½|YTN
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ytn_korea
+#EXTINF:-1,éŸ©å›½|KBS World 24
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=kbsworld24_korea
+#EXTINF:-1,éŸ©å›½|YTN Science
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ytnscience_korea
+#EXTINF:-1,éŸ©å›½|YTN Korean
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ytnkorean_korea
+#EXTINF:-1,éŸ©å›½|YTN DMB
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ytndmb_korea
+#EXTINF:-1,éŸ©å›½|Apps TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=appongoogle_korea
+#EXTINF:-1,éŸ©å›½|All the Kpop
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=allthekpop_korea
+#EXTINF:-1,éŸ©å›½|J the Kpop
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=jthekpop_korea
+#EXTINF:-1,éŸ©å›½|EBS Kids
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=ebskids_korea
+#EXTINF:-1,éŸ©å›½|CGNTV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cgntv_korea
+#EXTINF:-1,æ—¥æœ¬|NHK-ç·åˆ-2
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=nhkg_japan
+#EXTINF:-1,æ—¥æœ¬|NHK-E
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=nhke_japan
+#EXTINF:-1,æ—¥æœ¬|ãƒ†ãƒ¬ãƒ“æœæ—¥ Asahi TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=asahitv_japan
+#EXTINF:-1,æ—¥æœ¬|JET ç¶œåˆ
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=jettv_japan
+#EXTINF:-1,æ—¥æœ¬|ãƒ†ãƒ¬ãƒ“æ±äº¬ Tokyo TV
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tokyotv_japan
+#EXTINF:-1,æ—¥æœ¬|TOKYOMX
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tokyomx_japan
+#EXTINF:-1,æ—¥æœ¬|NHKBS1
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=nhkbs1_japan
+#EXTINF:-1,æ—¥æœ¬|NHKBSãƒ—ãƒ¬ãƒŸã‚¢ Premium
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=nhkpremium_japan
+#EXTINF:-1,æ—¥æœ¬|BSã‚¸ãƒ£ãƒ‘ãƒ³ 181
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=bs181_japan
+#EXTINF:-1,æ—¥æœ¬|BSãƒ•ã‚¸ BS Fuji
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=bsfuji_japan
+#EXTINF:-1,æ—¥æœ¬|CNA Japan
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=cna_japan
+#EXTINF:-1,æ—¥æœ¬|BS-TBS
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=bstbs_japan
+#EXTINF:-1,æ—¥æœ¬|NHK Oaska
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=nhkosaka_japan
